@@ -1,25 +1,25 @@
 import { Film, MonitorPlay, Tv, Disc } from 'lucide-react';
 
-import filmsHero from '../assets/films/Film Project Posters/Copy of Movie Poster_20x10.jpg';
-import filmsC1 from '../assets/films/Film Project Posters/Copy of Poster_vertical_2_.jpg';
-import filmsC2 from '../assets/films/Pictures of our Bollywood Film/Copy of 47077_482540201424_2336191_n.jpg';
-import filmsC3 from '../assets/films/Pictures of our Bollywood Film/Copy of WiLD.jpg';
-import filmsC4 from '../assets/films/Film Project Posters/Copy of IAYV_Vertical Poster.jpg';
-import filmsC5 from '../assets/films/Film Project Posters/Copy of Final Poster - Ep 04.png';
+import filmsHero from '../assets/Films/Film Project Posters/Copy of Movie Poster_20x10.jpg';
+import filmsC1 from '../assets/Films/Film Project Posters/Copy of Poster_vertical_2_.jpg';
+import filmsC2 from '../assets/Films/Pictures of our Bollywood Film/Copy of 47077_482540201424_2336191_n.jpg';
+import filmsC3 from '../assets/Films/Pictures of our Bollywood Film/Copy of WiLD.jpg';
+import filmsC4 from '../assets/Films/Film Project Posters/Copy of IAYV_Vertical Poster.jpg';
+import filmsC5 from '../assets/Films/Film Project Posters/Copy of Final Poster - Ep 04.png';
 
-import agencyHero from '../assets/agency/Pictures/Copy of 0D2A0067.JPG';
-import agencyC1 from '../assets/agency/Pictures/Copy of 7K7A8144__01__01.jpg';
-import agencyC2 from '../assets/agency/Pictures/Copy of Logo collage RED.png';
-import agencyC3 from '../assets/agency/Pictures/Copy of YT Thumbnail.png';
-import agencyC4 from '../assets/agency/Pictures/Copy of Ads1.png';
-import agencyC5 from '../assets/agency/Pictures/Copy of eLearning Fiction elf1.png';
+import agencyHero from '../assets/Agency/Pictures/Copy of 0D2A0067.JPG';
+import agencyC1 from '../assets/Agency/Pictures/Copy of 7K7A8144__01__01.jpg';
+import agencyC2 from '../assets/Agency/Pictures/Copy of Logo collage RED.png';
+import agencyC3 from '../assets/Agency/Pictures/Copy of YT Thumbnail.png';
+import agencyC4 from '../assets/Agency/Pictures/Copy of Ads1.png';
+import agencyC5 from '../assets/Agency/Pictures/Copy of eLearning Fiction elf1.png';
 
-import academyHero from '../assets/academy/Lifelong Scientific Fitness - Pics/Copy of LSF_Horizontal_1.7MB.jpg';
-import academyC1 from '../assets/academy/Lifelong Scientific Fitness - Pics/Copy of LSF_Square_1.9MB.jpg';
-import academyC2 from '../assets/academy/Heal Asthma - Pics/Copy of Heal Asthma_Square_wo link w logo.jpg';
-import academyC3 from '../assets/academy/Heal Asthma - Pics/Copy of Full Video Course In Hindi_English.png';
-import academyC4 from '../assets/academy/Lifelong Scientific Fitness - Pics/Copy of Final_SF Square 1st Chapter [FREE].jpg';
-import academyC5 from '../assets/academy/Lifelong Scientific Fitness - Pics/Copy of LSF_Vertical.jpg';
+import academyHero from '../assets/Academy/Lifelong Scientific Fitness - Pics/Copy of LSF_Horizontal_1.7MB.jpg';
+import academyC1 from '../assets/Academy/Lifelong Scientific Fitness - Pics/Copy of LSF_Square_1.9MB.jpg';
+import academyC2 from '../assets/Academy/Heal Asthma - Pics/Copy of Heal Asthma_Square_wo link w logo.jpg';
+import academyC3 from '../assets/Academy/Heal Asthma - Pics/Copy of Full Video Course In Hindi_English.png';
+import academyC4 from '../assets/Academy/Lifelong Scientific Fitness - Pics/Copy of Final_SF Square 1st Chapter [FREE].jpg';
+import academyC5 from '../assets/Academy/Lifelong Scientific Fitness - Pics/Copy of LSF_Vertical.jpg';
 
 export const sectionsData = [
   {
